@@ -1,0 +1,13 @@
+[interface]
+color-scheme='prefer-dark'
+cursor-size=16
+cursor-theme='Anvarinho-BoldBars'
+font-name='Share Tech 11'
+gtk-enable-primary-paste=true
+gtk-theme='Adwaita-dark'
+icon-theme='Yaru-olive-dark'
+monospace-font-name='IBM Plex Mono 11'
+text-scaling-factor=1.0
+
+[wm/preferences]
+titlebar-font='IBM Plex Sans Bold 11'

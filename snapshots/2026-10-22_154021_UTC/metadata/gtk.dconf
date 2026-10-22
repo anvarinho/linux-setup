@@ -1,0 +1,21 @@
+[gtk4/settings/color-chooser]
+custom-colors=[(0.92156863212585449, 0.30196079611778259, 0.29411765933036804, 1.0)]
+selected-color=(true, 0.92156863212585449, 0.30196079611778259, 0.29411765933036804, 1.0)
+
+[gtk4/settings/file-chooser]
+show-hidden=false
+sort-directories-first=false
+
+[settings/file-chooser]
+date-format='regular'
+location-mode='path-bar'
+show-hidden=false
+show-size-column=true
+show-type-column=true
+sidebar-width=167
+sort-column='name'
+sort-directories-first=false
+sort-order='ascending'
+type-format='category'
+window-position=(0, 0)
+window-size=(875, 553)
